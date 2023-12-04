@@ -92,7 +92,7 @@ h6 {
 .element a:hover {
     height: 75px;
     text-decoration: none;
-    color: #aeacac;
+    color: #FFF;
     display: flex;
     justify-content: space-around;
     align-items: center;
