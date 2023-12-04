@@ -300,11 +300,11 @@ input::placeholder {
     user-select: none;
     width: 100%;
     background-color: #EC7979;
-    border-radius: 0px 0px 20px 20px; /*задает радиусы углов*/
-    border: none; /*убирает рамку вокруг кнопки*/
+    border-radius: 0px 0px 20px 20px;
+    border: none;
     height: 80px;
-    position: absolute; /*прижимает кнопку к низу*/
-    bottom: 0; /*прижимает кнопку к низу*/
+    position: absolute;
+    bottom: 0;
 }
 
 .button_red:hover {
@@ -328,7 +328,7 @@ input::placeholder {
     .banner_container {
         padding-top: 120px;
         padding-bottom: 80px;
-        margin: 0px 30px 0px 110px;  /* справа отступ 30px, слева 30 + 80 =110px*/
+        margin: 0px 30px 0px 110px;
         width: 85%;
     }
 
