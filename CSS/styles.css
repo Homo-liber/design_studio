@@ -507,3 +507,49 @@ input::placeholder {
 /* end__Styles for section "social" tablet 1024px and mobile 320px - - - - - - - - - - - - - - - - - -  */
 
 
+
+.about {
+	width: 78%;
+	margin: 0 auto;
+	padding-bottom: 300px;
+}
+.about_heading {
+	text-transform: uppercase;
+	text-align: center;
+	padding: 50px;
+}
+.about_separator{
+	width: 14vw;
+	height: 1px;
+	background-color: #EC7979;
+	margin: 0 auto;
+}
+.about_text {
+	text-align: center;
+	margin-top: 50px;
+	color: #86878B;
+}
+.about_boxes{
+	margin-top: 130px;
+	display: flex;
+}
+.about_box {
+	width: 33.33333%;
+	text-align: center;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.about_icons_element{
+	height: 170px;
+	width: 170px;
+	margin: 0 auto;
+	padding-bottom: 100px;
+}
+.about_box_heading {
+	margin-top: 50px;
+}
+.about_box_text {
+	margin-top: 50px;
+	padding-bottom: 10px;
+}
+
